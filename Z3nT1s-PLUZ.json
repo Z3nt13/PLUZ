@@ -124,25 +124,25 @@
     },
     {
       "name": "PatchBundle-Loader-Prospero",
-      "filename": "PatchBundle-Loader-Prospero_v27805912059.elf",
-      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-loader-prospero.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Loader-Prospero_v27805912059.elf",
+      "filename": "PatchBundle-Loader-Prospero_v28160811698.elf",
+      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28160811698/patch-bundle-loader-orbis.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Loader-Prospero_v28160811698.elf",
       "source": "https://github.com/illusionyy/ps-patch-system",
       "description": "Runtime compatibility package loading framework.",
       "last_update": "25.06.2026",
-      "version": "27805912059",
-      "checksum": "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
+      "version": "28160811698",
+      "checksum": "e8c5ba4e41fe8055733d4cc7139b934519f5ac211721260c6d2324e61544f382"
     },
     {
       "name": "PatchBundle-Prospero",
-      "filename": "PatchBundle-Prospero_v27805912059.elf",
-      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-prospero.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Prospero_v27805912059.elf",
+      "filename": "PatchBundle-Prospero_v28160811698.elf",
+      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28160811698/patch-bundle-loader-orbis.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Prospero_v28160811698.elf",
       "source": "https://github.com/illusionyy/ps-patch-system",
       "description": "Prospero system wide runtime modifications array.",
       "last_update": "25.06.2026",
-      "version": "27805912059",
-      "checksum": "e1e4bbc3b7210796197283e9635048a2b8aa610610fc8f182d65edf92703ca0c"
+      "version": "28160811698",
+      "checksum": "e8c5ba4e41fe8055733d4cc7139b934519f5ac211721260c6d2324e61544f382"
     },
     {
       "name": "Pegasus-DL",
