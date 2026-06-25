@@ -1,0 +1,29 @@
+﻿name: "🚀 Auto-Scrape & Payload Vault Sync"
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  scrape_and_sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: "🗂️ Checkout Code Repository"
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: "⚙️ Execute Scraper & Integrity Hashing Engine"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pwsh -File ./update_hub.ps1
+      - name: "💾 Commit & Push Dynamic Adjustments"
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name "Z3nt13-Bot"
+            git config --global user.email "Z3nt13-Bot@users.noreply.github.com"
+            git add Z3nT1s-PLUZ.json payloads/*
+            git commit -m "🤖 Auto-Vault Update: Synced latest developer payloads and checksum arrays"
+            git push origin main
+          fi
