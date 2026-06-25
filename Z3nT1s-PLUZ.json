@@ -1,216 +1,236 @@
-﻿{
-  "name":  "Z3nT1\u0027s PLUZ-PS5 [PayLoadUpdsaterZ-PS5] Repo",
+{
+  "name":  "Z3nT1's PLUZ-PS5 [PayLoadUpdsaterZ-PS5] Repo",
   "payloads":  [
-          {
-            "name":  "etaHEN",
-            "filename":  "etaHEN_v2.5B.bin",
-            "url":  "https://github.com/etaHEN/etaHEN/releases/download/v2.5B/etaHEN-2.5B.bin",
-            "source":  "https://github.com/etaHEN/etaHEN",
-            "description":  "Primary Homebrew Enabler payload environment.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "etaHEN-Zecoxao",
-            "filename":  "etaHEN-Zecoxao_v2.6B.bin",
-            "url":  "https://github.com/zecoxao/zecoxao.github.io/raw/main/luasauce/payloads/etaHEN.bin",
-            "source":  "https://github.com/zecoxao/zecoxao.github.io/tree/main/luasauce/payloads",
-            "description":  "Alternative etaHEN variant compiled with custom lua scripts.",
-            "last_update":  "25.06.2026",
-            "version":  "2.6B",
-            "checksum":  "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
-          },
-          {
-            "name":  "Cheat-Runner",
-            "filename":  "Cheat-Runner_v0.14.elf",
-            "url":  "https://github.com/notmaj0r/CheatRunner/releases/download/v0.14/CheatRunner.elf",
-            "source":  "https://github.com/notmaj0r/CheatRunner",
-            "description":  "Game trainer and live memory modifier runner.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Cheat-Runner-RDX",
-            "filename":  "Cheat-Runner-RDX_v0.16.elf",
-            "url":  "https://github.com/RDX-Sci01/CheatRunner-RDX/releases/download/v0.16/CheatRunner-RDX.elf",
-            "source":  "https://github.com/RDX-Sci01/CheatRunner-RDX",
-            "description":  "RDX optimized variant of CheatRunner trainer system.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Elf-Arsenal",
-            "filename":  "Elf-Arsenal_v1.6.21.elf",
-            "url":  "https://git.etawen.dev/soniciso/elf-arsenal/raw/branch/main/Elf-Arsenal.elf",
-            "source":  "https://git.etawen.dev/soniciso/elf-arsenal",
-            "description":  "Dynamic payload suite injector tools.",
-            "last_update":  "24.06.2026",
-            "version":  "1.6.21",
-            "checksum":  "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
-          },
-          {
-            "name":  "Elfldr-Ps5",
-            "filename":  "Elfldr-Ps5_v0.23.2-148b71c.elf",
-            "url":  "https://github.com/itsPLK/ps5-elfldr/releases/download/v0.23.2-148b71c/elfldr.elf",
-            "source":  "https://github.com/itsPLK/ps5-elfldr",
-            "description":  "Prismatic ELF loader execution framework.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Game-Compressor",
-            "filename":  "Game-Compressor_v1.0.3.elf",
-            "url":  "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/GameCompressor.elf",
-            "source":  "https://github.com/juma-sayeh/PS5-Game-Compressor",
-            "description":  "On-console archival compression optimization interface for large games.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name": "Kstuff-Lite",
-            "filename": "Kstuff-Lite_v1.07B.elf",
-            "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
-            "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.07B.elf",
-            "source": "https://github.com/EchoStretch/kstuff-lite",
-            "description": "Stripped core kernel patching kstuff module.",
-            "last_update": "25.06.2026",
-            "version": "1.07B",
-            "checksum": "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
-          },
-          {
-            "name":  "Kstuff-Lite-Drakmor",
-            "filename":  "Kstuff-Lite-Drakmor_v1.2-dr.t2.elf",
-            "url":  "https://github.com/drakmor/kstuff-lite/releases/download/v1.2-dr.t2/kstuff-lite.elf",
-            "source":  "https://github.com/drakmor/kstuff-lite",
-            "description":  "Drakmor customized kstuff patch testing release.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Kstuff-Lite-Echo",
-            "filename":  "Kstuff-Lite-Echo_v1.07B.elf",
-            "url":  "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07B/kstuff-lite.elf",
-            "source":  "https://github.com/EchoStretch/kstuff-lite",
-            "description":  "EchoStretch deployment edition of kstuff kernel patcher.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "NanoDNS",
-            "filename":  "NanoDNS_v0.3.elf",
-            "url":  "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
-            "source":  "https://github.com/drakmor/nanoDNS",
-            "description":  "Telemetry blocking DNS micro server daemon.",
-            "last_update":  "25.06.2026",
-            "version":  "0.3",
-            "checksum":  "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
-          },
-          {
-            "name":  "PatchBundle-Loader-Prospero",
-            "filename":  "PatchBundle-Loader-Prospero_v27805912059.elf",
-            "url":  "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-loader-prospero.elf",
-            "source":  "https://github.com/illusionyy/ps-patch-system",
-            "description":  "Runtime compatibility package loading framework.",
-            "last_update":  "25.06.2026",
-            "version":  "27805912059",
-            "checksum":  "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
-          },
-          {
-            "name":  "PatchBundle-Prospero",
-            "filename":  "PatchBundle-Prospero_v27805912059.elf",
-            "url":  "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-prospero.elf",
-            "source":  "https://github.com/illusionyy/ps-patch-system",
-            "description":  "Prospero system wide runtime modifications array.",
-            "last_update":  "25.06.2026",
-            "version":  "27805912059",
-            "checksum":  "e1e4bbc3b7210796197283e9635048a2b8aa610610fc8f182d65edf92703ca0c"
-          },
-          {
-            "name":  "Pegasus-DL",
-            "filename":  "Pegasus-DL_v1.6.0.elf",
-            "url":  "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.6.0/pegasus-dl.elf",
-            "source":  "https://github.com/pegasus-ps5/pegasus-dl",
-            "description":  "Multi threaded content retrieval engine asset.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Pldmgr",
-            "filename":  "Pldmgr_v0.3.1.elf",
-            "url":  "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.1/pldmgr.elf",
-            "source":  "https://github.com/itsPLK/ps5-payload-manager",
-            "description":  "Localized on-deck payload tracking dashboard management daemon.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "Ps5debug-NG",
-            "filename":  "Ps5debug-NG_v1.3.0.elf",
-            "url":  "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
-            "source":  "https://github.com/OpenSourcereR-dev/ps5debug-NG",
-            "description":  "Next Generation system debug communications server.",
-            "last_update":  "25.06.2026",
-            "version":  "1.3.0",
-            "checksum":  "8f75fb90b45d7cc4d59147e3323577d7264cf572c78a27f76722202f492ad16a"
-          },
-          {
-            "name":  "PS5Upload",
-            "filename":  "PS5Upload_v3.3.22.elf",
-            "url":  "https://github.com/phantomptr/ps5upload/releases/download/v3.3.22/ps5upload-3.3.22.elf",
-            "source":  "https://github.com/phantomptr/ps5upload",
-            "description":  "Networking payload uploading daemon interface.",
-            "last_update":  "25.06.2026",
-            "version":  "3.3.22",
-            "checksum":  "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
-          },
-          {
-            "name":  "SaveMNT-Offset-Dumper",
-            "filename":  "SaveMNT-Offset-Dumper_v1.0.0.elf",
-            "url":  "https://github.com/StonedModder/savemnt-offset-dumper/releases/download/v1.0.0/savemnt-offset-dumper.elf",
-            "source":  "https://github.com/StonedModder/savemnt-offset-dumper",
-            "description":  "Secure mount layer offset parsing utility.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "ShadowMount+",
-            "filename":  "ShadowMount+_v1.6t15-f2.elf",
-            "url":  "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6test15-fix2/shadowmountplus.elf",
-            "source":  "https://github.com/drakmor/ShadowMountPlus",
-            "description":  "Virtual storage file system cascading layer tool.",
-            "last_update":  "25.06.2026",
-            "version":  "1.6t15-f2",
-            "checksum":  "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
-          },
-          {
-            "name":  "Spectrum-Library",
-            "filename":  "Spectrum-Library_v1.4.2.elf",
-            "url":  "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/v1.4.2/SpectrumLibrary.elf",
-            "source":  "https://github.com/Phoenixx1202/Spectrum-Library",
-            "description":  "Core dependency runtime mapping stack.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          },
-          {
-            "name":  "WebSRV-Ps5",
-            "filename":  "WebSRV-Ps5_v0.32+.elf",
-            "url":  "https://github.com/ps5-payload-dev/websrv/releases/download/v0.32%2B/websrv.elf",
-            "source":  "https://github.com/ps5-payload-dev/websrv",
-            "description":  "Embedded dynamic hosting hyper text server layer.",
-            "last_update":  "25.06.2026",
-            "version":  "0.0.0-trigger",
-            "checksum":  ""
-          }
-        ]
+    {
+      "name": "etaHEN",
+      "filename": "etaHEN_v2.5B.bin",
+      "url": "https://github.com/etaHEN/etaHEN/releases/download/v2.5B/etaHEN-2.5B.bin",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/etaHEN_v2.5B.bin",
+      "source": "https://github.com/etaHEN/etaHEN",
+      "description": "Primary Homebrew Enabler payload environment.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "etaHEN-Zecoxao",
+      "filename": "etaHEN-Zecoxao_v2.6B.bin",
+      "url": "https://github.com/zecoxao/zecoxao.github.io/raw/main/luasauce/payloads/etaHEN.bin",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/etaHEN-Zecoxao_v2.6B.bin",
+      "source": "https://github.com/zecoxao/zecoxao.github.io/tree/main/luasauce/payloads",
+      "description": "Alternative etaHEN variant compiled with custom lua scripts.",
+      "last_update": "25.06.2026",
+      "version": "2.6B",
+      "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
+    },
+    {
+      "name": "Cheat-Runner",
+      "filename": "Cheat-Runner_v0.14.elf",
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.14/CheatRunner.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner_v0.14.elf",
+      "source": "https://github.com/notmaj0r/CheatRunner",
+      "description": "Game trainer and live memory modifier runner.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Cheat-Runner-RDX",
+      "filename": "Cheat-Runner-RDX_v0.16.elf",
+      "url": "https://github.com/RDX-Sci01/CheatRunner-RDX/releases/download/v0.16/CheatRunner-RDX.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner-RDX_v0.16.elf",
+      "source": "https://github.com/RDX-Sci01/CheatRunner-RDX",
+      "description": "RDX optimized variant of CheatRunner trainer system.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Elf-Arsenal",
+      "filename": "Elf-Arsenal_v1.6.21.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/raw/branch/main/Elf-Arsenal.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Elf-Arsenal_v1.6.21.elf",
+      "source": "https://git.etawen.dev/soniciso/elf-arsenal",
+      "description": "Dynamic payload suite injector tools.",
+      "last_update": "24.06.2026",
+      "version": "1.6.21",
+      "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
+    },
+    {
+      "name": "Elfldr-Ps5",
+      "filename": "Elfldr-Ps5_v0.23.2-148b71c.elf",
+      "url": "https://github.com/itsPLK/ps5-elfldr/releases/download/v0.23.2-148b71c/elfldr.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Elfldr-Ps5_v0.23.2-148b71c.elf",
+      "source": "https://github.com/itsPLK/ps5-elfldr",
+      "description": "Prismatic ELF loader execution framework.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Game-Compressor",
+      "filename": "Game-Compressor_v1.0.3.elf",
+      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/GameCompressor.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Game-Compressor_v1.0.3.elf",
+      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor",
+      "description": "On-console archival compression optimization interface for large games.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Kstuff-Lite",
+      "filename": "Kstuff-Lite_v1.07-B.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.07-B.elf",
+      "source": "https://github.com/EchoStretch/kstuff-lite",
+      "description": "Stripped core kernel patching kstuff module.",
+      "last_update": "25.06.2026",
+      "version": "1.07B",
+      "checksum": "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
+    },
+    {
+      "name": "Kstuff-Lite-Drakmor",
+      "filename": "Kstuff-Lite-Drakmor_v1.2-dr.t2.elf",
+      "url": "https://github.com/drakmor/kstuff-lite/releases/download/v1.2-dr.t2/kstuff-lite.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite-Drakmor_v1.2-dr.t2.elf",
+      "source": "https://github.com/drakmor/kstuff-lite",
+      "description": "Drakmor customized kstuff patch testing release.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Kstuff-Lite-Echo",
+      "filename": "Kstuff-Lite-Echo_v1.07B.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07B/kstuff-lite.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite-Echo_v1.07B.elf",
+      "source": "https://github.com/EchoStretch/kstuff-lite",
+      "description": "EchoStretch deployment edition of kstuff kernel patcher.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "NanoDNS",
+      "filename": "NanoDNS_v0.3.elf",
+      "url": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/NanoDNS_v0.3.elf",
+      "source": "https://github.com/drakmor/nanoDNS",
+      "description": "Telemetry blocking DNS micro server daemon.",
+      "last_update": "25.06.2026",
+      "version": "0.3",
+      "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
+    },
+    {
+      "name": "PatchBundle-Loader-Prospero",
+      "filename": "PatchBundle-Loader-Prospero_v27805912059.elf",
+      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-loader-prospero.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Loader-Prospero_v27805912059.elf",
+      "source": "https://github.com/illusionyy/ps-patch-system",
+      "description": "Runtime compatibility package loading framework.",
+      "last_update": "25.06.2026",
+      "version": "27805912059",
+      "checksum": "bcb6fcad85a283ef93c3542278f034835fd835648c7bdb1745a6b5afbae4c15d"
+    },
+    {
+      "name": "PatchBundle-Prospero",
+      "filename": "PatchBundle-Prospero_v27805912059.elf",
+      "url": "https://github.com/illusionyy/ps-patch-system/releases/download/28037132493/patch-bundle-prospero.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PatchBundle-Prospero_v27805912059.elf",
+      "source": "https://github.com/illusionyy/ps-patch-system",
+      "description": "Prospero system wide runtime modifications array.",
+      "last_update": "25.06.2026",
+      "version": "27805912059",
+      "checksum": "e1e4bbc3b7210796197283e9635048a2b8aa610610fc8f182d65edf92703ca0c"
+    },
+    {
+      "name": "Pegasus-DL",
+      "filename": "Pegasus-DL_v1.6.0.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.6.0/pegasus-dl.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pegasus-DL_v1.6.0.elf",
+      "source": "https://github.com/pegasus-ps5/pegasus-dl",
+      "description": "Multi threaded content retrieval engine asset.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Pldmgr",
+      "filename": "Pldmgr_v0.3.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.1/pldmgr.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pldmgr_v0.3.1.elf",
+      "source": "https://github.com/itsPLK/ps5-payload-manager",
+      "description": "Localized on-deck payload tracking dashboard management daemon.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "Ps5debug-NG",
+      "filename": "Ps5debug-NG_v1.3.0.elf",
+      "url": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Ps5debug-NG_v1.3.0.elf",
+      "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG",
+      "description": "Next Generation system debug communications server.",
+      "last_update": "25.06.2026",
+      "version": "1.3.0",
+      "checksum": "8f75fb90b45d7cc4d59147e3323577d7264cf572c78a27f76722202f492ad16a"
+    },
+    {
+      "name": "PS5Upload",
+      "filename": "PS5Upload_v3.3.22.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.22/ps5upload-3.3.22.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5Upload_v3.3.22.elf",
+      "source": "https://github.com/phantomptr/ps5upload",
+      "description": "Networking payload uploading daemon interface.",
+      "last_update": "25.06.2026",
+      "version": "3.3.22",
+      "checksum": "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
+    },
+    {
+      "name": "SaveMNT-Offset-Dumper",
+      "filename": "SaveMNT-Offset-Dumper_v1.0.0.elf",
+      "url": "https://github.com/StonedModder/savemnt-offset-dumper/releases/download/v1.0.0/savemnt-offset-dumper.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/SaveMNT-Offset-Dumper_v1.0.0.elf",
+      "source": "https://github.com/StonedModder/savemnt-offset-dumper",
+      "description": "Secure mount layer offset parsing utility.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "ShadowMount+",
+      "filename": "ShadowMount+_v1.6t15-f2.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6test15-fix2/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.6t15-f2.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus",
+      "description": "Virtual storage file system cascading layer tool.",
+      "last_update": "25.06.2026",
+      "version": "1.6t15-f2",
+      "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
+    },
+    {
+      "name": "Spectrum-Library",
+      "filename": "Spectrum-Library_v1.4.2.elf",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/v1.4.2/SpectrumLibrary.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Spectrum-Library_v1.4.2.elf",
+      "source": "https://github.com/Phoenixx1202/Spectrum-Library",
+      "description": "Core dependency runtime mapping stack.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    },
+    {
+      "name": "WebSRV-Ps5",
+      "filename": "WebSRV-Ps5_v0.32+.elf",
+      "url": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.32%2B/websrv.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/WebSRV-Ps5_v0.32+.elf",
+      "source": "https://github.com/ps5-payload-dev/websrv",
+      "description": "Embedded dynamic hosting hyper text server layer.",
+      "last_update": "25.06.2026",
+      "version": "0.0.0-trigger",
+      "checksum": ""
+    }
+  ]
 }
