@@ -71,15 +71,15 @@
             "version":  "0.0.0-trigger",
             "checksum":  ""
           },
-          {
-            "name":  "Kstuff-Lite",
-            "filename":  "Kstuff-Lite_v1.07B.elf",
-            "url":  "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
-            "source":  "https://github.com/EchoStretch/kstuff-lite",
-            "description":  "Stripped core kernel patching kstuff module.",
-            "last_update":  "25.06.2026",
-            "version":  "1.07B",
-            "checksum":  "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
+            "name": "Kstuff-Lite",
+            "filename": "Kstuff-Lite_v1.07B.elf",
+            "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
+            "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.07B.elf",
+            "source": "https://github.com/EchoStretch/kstuff-lite",
+            "description": "Stripped core kernel patching kstuff module.",
+            "last_update": "25.06.2026",
+            "version": "1.07B",
+            "checksum": "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
           },
           {
             "name":  "Kstuff-Lite-Drakmor",
