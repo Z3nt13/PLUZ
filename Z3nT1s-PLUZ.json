@@ -179,14 +179,14 @@
     },
     {
       "name": "PS5Upload",
-      "filename": "PS5Upload_v3.3.22.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.22/ps5upload-3.3.22.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5Upload_v3.3.22.elf",
+      "filename": "PS5Upload_v3.3.24.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.24/ps5upload-3.3.24.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5Upload_v3.3.24.elf",
       "source": "https://github.com/phantomptr/ps5upload",
       "description": "Networking payload uploading daemon interface.",
-      "last_update": "25.06.2026",
-      "version": "v3.3.22",
-      "checksum": "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
+      "last_update": "28.06.2026",
+      "version": "v3.3.24",
+      "checksum": "0669701436835059cf5ddefbc7a739268fcb621337b59922d1670d36a5599896"
     },
     {
       "name": "SaveMNT-Offset-Dumper",
@@ -201,14 +201,14 @@
     },
     {
       "name": "ShadowMount+",
-      "filename": "ShadowMount+_v1.6test15-fix2.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6test15-fix2/shadowmountplus.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.6test15-fix2.elf",
+      "filename": "ShadowMount+_v1.6beta16.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta16/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.6beta16.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus",
       "description": "Virtual storage file system cascading layer tool.",
-      "last_update": "25.06.2026",
-      "version": "1.6test15-fix2",
-      "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
+      "last_update": "28.06.2026",
+      "version": "1.6beta16",
+      "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
     },
     {
       "name": "Spectrum-Library",
