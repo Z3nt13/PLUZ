@@ -80,14 +80,14 @@
     },
     {
       "name": "Kstuff-Lite",
-      "filename": "Kstuff-Lite_v1.07.elf",
-      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.07.elf",
+      "filename": "Kstuff-Lite_v1.08.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.08.elf",
       "source": "https://github.com/EchoStretch/kstuff-lite",
       "description": "Stripped core kernel patching kstuff module.",
-      "last_update": "25.06.2026",
-      "version": "v1.07",
-      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
+      "last_update": "29.06.2026",
+      "version": "v1.08",
+      "checksum": "42e3d20f0d276f50f2a97be902e4cb5eb0c6e75f41f9b117c7a4edcc2f342536"
     },
     {
       "name": "Kstuff-Lite-Drakmor",
@@ -102,14 +102,14 @@
     },
     {
       "name": "Kstuff-Lite-Echo",
-      "filename": "Kstuff-Lite-Echo_v1.07.elf",
-      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite-Echo_v1.07.elf",
+      "filename": "Kstuff-Lite-Echo_v1.08.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite-Echo_v1.08.elf",
       "source": "https://github.com/EchoStretch/kstuff-lite",
       "description": "EchoStretch deployment edition of kstuff kernel patcher.",
-      "last_update": "25.06.2026",
-      "version": "v1.07",
-      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
+      "last_update": "29.06.2026",
+      "version": "v1.08",
+      "checksum": "42e3d20f0d276f50f2a97be902e4cb5eb0c6e75f41f9b117c7a4edcc2f342536"
     },
     {
       "name": "NanoDNS",
