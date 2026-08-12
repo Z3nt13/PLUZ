@@ -1,0 +1,35 @@
+name: 🚀 Auto-Scrape & Payload Vault Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape_and_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Manifest Engine
+        shell: pwsh
+        run: ./update_manifest.ps1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: "Z3nt13"
+          GH_REPO: "PLUZ"
+          GH_BRANCH: "main"
+
+      - name: Commit and Push Manifest Changes
+        run: |
+          git config --global user.name "Z3nt13-Bot"
+          git config --global user.email "bot@z3nt13.local"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "🤖 Auto-Vault Update: Synced latest developer payloads"
+          git push origin main
