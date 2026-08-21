@@ -127,14 +127,14 @@
     {
       "name": "PS5-FtpServer",
       "category": "Network",
-      "filename": "PS5-FtpServer_v0.21.elf",
-      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21/ftpsrv-ps4.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-FtpServer_v0.21.elf",
+      "filename": "PS5-FtpServer_v0.21.1.elf",
+      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps4.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-FtpServer_v0.21.1.elf",
       "source": "https://github.com/ps5-payload-dev/ftpsrv",
       "description": "Background FTP server daemon for storage access.",
-      "last_update": "12.08.2026",
-      "version": "v0.21",
-      "checksum": "47e968524064b1366833697fd1a5c90a0598c3bd505cf23c5150b70fdc3fad98"
+      "last_update": "21.08.2026",
+      "version": "v0.21.1",
+      "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16"
     },
     {
       "name": "PS5-KlogServer",
