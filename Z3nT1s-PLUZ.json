@@ -67,14 +67,14 @@
     {
       "name": "Elfldr-Ps5",
       "category": "Tools",
-      "filename": "Elfldr-Ps5_v0.24.elf",
-      "url": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.24/elfldr-ps5.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Elfldr-Ps5_v0.24.elf",
+      "filename": "Elfldr-Ps5_v0.25.elf",
+      "url": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.25/elfldr-ps5.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Elfldr-Ps5_v0.25.elf",
       "source": "https://github.com/ps5-payload-dev/elfldr",
       "description": "ELF loader frame listening on Port 9021.",
-      "last_update": "12.08.2026",
-      "version": "v0.24",
-      "checksum": "e23313367cf59a9b0a09e34eb59e435e2c387de418e557d65bf578b7744942a5"
+      "last_update": "23.08.2026",
+      "version": "v0.25",
+      "checksum": "de70a47e6d099dc03718c33c158a727f1340c3b5310155618c5049ab0fb41754"
     },
     {
       "name": "Pldmgr",
