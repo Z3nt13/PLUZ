@@ -163,14 +163,14 @@
     {
       "name": "Pegasus-DL",
       "category": "Tools",
-      "filename": "Pegasus-DL_v1.7.0.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.7.0/pegasus_dl.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pegasus-DL_v1.7.0.elf",
+      "filename": "Pegasus-DL_v1.8.0.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.8.0/pegasus_dl.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pegasus-DL_v1.8.0.elf",
       "source": "https://github.com/pegasus-ps5/pegasus-dl",
       "description": "Direct console asset downloading suite.",
-      "last_update": "12.08.2026",
-      "version": "v1.7.0",
-      "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
+      "last_update": "10.09.2026",
+      "version": "v1.8.0",
+      "checksum": "3665fa275a185e597ef364379a7f7ad5a9d58f30fda2af6bd04e43299ff2e669"
     },
     {
       "name": "PS5-WebSrv",
