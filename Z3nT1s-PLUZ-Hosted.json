@@ -18,13 +18,13 @@
     {
       "name": "Kstuff-Lite",
       "category": "Kernel",
-      "filename": "Kstuff-Lite_v1.10.elf",
-      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.10.elf",
+      "filename": "Kstuff-Lite_v1.11.elf",
+      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Kstuff-Lite_v1.11.elf",
       "source": "https://github.com/EchoStretch/kstuff-lite",
       "description": "Kernel patching module listening on Port 9021.",
-      "last_update": "12.08.2026",
-      "version": "v1.10",
-      "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
+      "last_update": "21.09.2026",
+      "version": "v1.11",
+      "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5"
     },
     {
       "name": "Kstuff-Lite-Drakmor",
@@ -106,13 +106,13 @@
     {
       "name": "ShadowMount+",
       "category": "Tools",
-      "filename": "ShadowMount+_v1.6beta16.elf",
-      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.6beta16.elf",
+      "filename": "ShadowMount+_v1.7beta1.elf",
+      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.7beta1.elf",
       "source": "https://github.com/drakmor/shadowMountPlus",
       "description": "Virtual mount and backup engine.",
-      "last_update": "12.08.2026",
-      "version": "1.6beta16",
-      "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
+      "last_update": "21.09.2026",
+      "version": "1.7beta1",
+      "checksum": "0b30a1c23b83ebb2aa6523c8caaa5801ee89bde00e90cb36f392a29bb0bdb403"
     },
     {
       "name": "PS5-FtpServer",
