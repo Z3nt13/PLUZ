@@ -103,26 +103,26 @@
     {
       "name": "ShadowMount+",
       "category": "Tools",
-      "filename": "ShadowMount+_v1.7beta1.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta1/ShadowMountPlus_1.7beta1.zip",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.7beta1.elf",
+      "filename": "ShadowMount+_v1.7beta2.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta2/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.7beta2.elf",
       "source": "https://github.com/drakmor/shadowMountPlus",
       "description": "Virtual mount and backup engine.",
-      "last_update": "21.09.2026",
-      "version": "1.7beta1",
-      "checksum": "0b30a1c23b83ebb2aa6523c8caaa5801ee89bde00e90cb36f392a29bb0bdb403"
+      "last_update": "25.09.2026",
+      "version": "1.7beta2",
+      "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5"
     },
     {
       "name": "ShadowMount+-Alpha",
       "category": "Tools",
-      "filename": "ShadowMount+-Alpha_v1.7beta1.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta1/ShadowMountPlus_1.7beta1.zip",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+-Alpha_v1.7beta1.elf",
+      "filename": "ShadowMount+-Alpha_v1.7beta2.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta2/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+-Alpha_v1.7beta2.elf",
       "source": "https://github.com/drakmor/shadowMountPlus",
       "description": "Alpha testing release channel for ShadowMount+.",
-      "last_update": "21.09.2026",
-      "version": "1.7beta1",
-      "checksum": "0b30a1c23b83ebb2aa6523c8caaa5801ee89bde00e90cb36f392a29bb0bdb403"
+      "last_update": "25.09.2026",
+      "version": "1.7beta2",
+      "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5"
     },
     {
       "name": "PS5-FtpServer",
