@@ -79,14 +79,14 @@
     {
       "name": "Pldmgr",
       "category": "Tools",
-      "filename": "Pldmgr_v0.5.1.elf",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.1/pldmgr_v0.5.1.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pldmgr_v0.5.1.elf",
+      "filename": "Pldmgr_v0.5.2.elf",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pldmgr_v0.5.2.elf",
       "source": "https://github.com/itsPLK/ps5-payload-manager",
       "description": "Web dashboard to manage and payload load.",
-      "last_update": "12.08.2026",
-      "version": "v0.5.1",
-      "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
+      "last_update": "30.09.2026",
+      "version": "v0.5.2",
+      "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
     },
     {
       "name": "Game-Compressor",
@@ -163,14 +163,14 @@
     {
       "name": "Pegasus-DL",
       "category": "Tools",
-      "filename": "Pegasus-DL_v1.9.0.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.9.0/pegasus_dl.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pegasus-DL_v1.9.0.elf",
+      "filename": "Pegasus-DL_v1.10.0.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.0/pegasus_dl.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pegasus-DL_v1.10.0.elf",
       "source": "https://github.com/pegasus-ps5/pegasus-dl",
       "description": "Direct console asset downloading suite.",
-      "last_update": "16.09.2026",
-      "version": "v1.9.0",
-      "checksum": "6336c626f0fbdef1272cc5d4e0239d7b44bf40f8106679083cf50d4c8e02389b"
+      "last_update": "30.09.2026",
+      "version": "v1.10.0",
+      "checksum": "724b245d8de08e5a16865180fac7f30eda72b94d45c9cc73686d9b2defc33f66"
     },
     {
       "name": "PS5-WebSrv",
@@ -199,14 +199,14 @@
     {
       "name": "PS5-App-Dumper",
       "category": "Tools",
-      "filename": "PS5-App-Dumper_v1.11.elf",
-      "url": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v1.11/ps5-app-dumper.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-App-Dumper_v1.11.elf",
+      "filename": "PS5-App-Dumper_v2.00.elf",
+      "url": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v2.00/ps5-app-dumper_v2.00.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-App-Dumper_v2.00.elf",
       "source": "https://github.com/EchoStretch/ps5-app-dumper",
       "description": "Dumps mounted games/apps directly to USB or storage.",
-      "last_update": "12.08.2026",
-      "version": "v1.11",
-      "checksum": "18483751ebaea6879b020a9dd87c0a4fb4f1bf09f3708d950362a483f78cc0d0"
+      "last_update": "30.09.2026",
+      "version": "v2.00",
+      "checksum": "b6fea71afb8937fcd1a933116c620e989acba25b7049eaeaa00cdc1bd604d686"
     },
     {
       "name": "BackPork",
