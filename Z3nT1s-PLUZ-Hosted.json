@@ -40,13 +40,13 @@
     {
       "name": "Cheat-Runner",
       "category": "Tools",
-      "filename": "Cheat-Runner_v0.17.1.elf",
-      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner_v0.17.1.elf",
+      "filename": "Cheat-Runner_v0.17.2.elf",
+      "url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner_v0.17.2.elf",
       "source": "https://github.com/notmaj0r/CheatRunner",
       "description": "PS5 web-based cheat trainer dashboard.",
-      "last_update": "01.10.2026",
-      "version": "v0.17.1",
-      "checksum": "6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212"
+      "last_update": "02.10.2026",
+      "version": "v0.17.2",
+      "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
     },
     {
       "name": "Libhijacker-Daemon",
