@@ -199,14 +199,14 @@
     {
       "name": "PS5-App-Dumper",
       "category": "Tools",
-      "filename": "PS5-App-Dumper_v2.00.elf",
-      "url": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v2.00/ps5-app-dumper_v2.00.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-App-Dumper_v2.00.elf",
+      "filename": "PS5-App-Dumper_v2.10.elf",
+      "url": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v2.10/ps5-app-dumper_v2.10.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/PS5-App-Dumper_v2.10.elf",
       "source": "https://github.com/EchoStretch/ps5-app-dumper",
       "description": "Dumps mounted games/apps directly to USB or storage.",
-      "last_update": "30.09.2026",
-      "version": "v2.00",
-      "checksum": "b6fea71afb8937fcd1a933116c620e989acba25b7049eaeaa00cdc1bd604d686"
+      "last_update": "03.10.2026",
+      "version": "v2.10",
+      "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
     },
     {
       "name": "BackPork",
