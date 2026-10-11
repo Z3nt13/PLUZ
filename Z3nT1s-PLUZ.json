@@ -43,14 +43,14 @@
     {
       "name": "Cheat-Runner",
       "category": "Tools",
-      "filename": "Cheat-Runner_v0.17.2.elf",
-      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.2/CheatRunner.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner_v0.17.2.elf",
+      "filename": "Cheat-Runner_v0.18.elf",
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.18/CheatRunner.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Cheat-Runner_v0.18.elf",
       "source": "https://github.com/notmaj0r/CheatRunner",
       "description": "PS5 web-based cheat trainer dashboard.",
-      "last_update": "02.10.2026",
-      "version": "v0.17.2",
-      "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
+      "last_update": "11.10.2026",
+      "version": "v0.18",
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
       "name": "Libhijacker-Daemon",
@@ -103,26 +103,26 @@
     {
       "name": "ShadowMount+",
       "category": "Tools",
-      "filename": "ShadowMount+_v1.7beta3.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta3/shadowmountplus.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.7beta3.elf",
+      "filename": "ShadowMount+_v1.7beta5.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta5/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+_v1.7beta5.elf",
       "source": "https://github.com/drakmor/shadowMountPlus",
       "description": "Virtual mount and backup engine.",
-      "last_update": "04.10.2026",
-      "version": "1.7beta3",
-      "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a"
+      "last_update": "11.10.2026",
+      "version": "1.7beta5",
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
     },
     {
       "name": "ShadowMount+-Alpha",
       "category": "Tools",
-      "filename": "ShadowMount+-Alpha_v1.7beta3.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta3/shadowmountplus.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+-Alpha_v1.7beta3.elf",
+      "filename": "ShadowMount+-Alpha_v1.7beta5.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta5/shadowmountplus.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/ShadowMount+-Alpha_v1.7beta5.elf",
       "source": "https://github.com/drakmor/shadowMountPlus",
       "description": "Alpha testing release channel for ShadowMount+.",
-      "last_update": "04.10.2026",
-      "version": "1.7beta3",
-      "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a"
+      "last_update": "11.10.2026",
+      "version": "1.7beta5",
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
     },
     {
       "name": "PS5-FtpServer",
