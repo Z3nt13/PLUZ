@@ -79,14 +79,14 @@
     {
       "name": "Pldmgr",
       "category": "Tools",
-      "filename": "Pldmgr_v0.6.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.0/pldmgr_v0.6.0.elf",
-      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pldmgr_v0.6.0.elf",
+      "filename": "Pldmgr_v0.6.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf",
+      "hosted_url": "https://raw.githubusercontent.com/Z3nt13/PLUZ/main/payloads/Pldmgr_v0.6.1.elf",
       "source": "https://github.com/itsPLK/ps5-payload-manager",
       "description": "Web dashboard to manage and payload load.",
-      "last_update": "14.10.2026",
-      "version": "v0.6.0",
-      "checksum": "5b31079d81d6467f2754edd1d6dbe63b0306502e135c21a425ecb263e39e2059"
+      "last_update": "15.10.2026",
+      "version": "v0.6.1",
+      "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285"
     },
     {
       "name": "Game-Compressor",
